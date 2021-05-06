@@ -120,6 +120,8 @@
         "kind": "audio",
         "metadata": "",
         "name": "assets/test2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
         "userAdded": true
       },
       {
@@ -127,6 +129,8 @@
         "kind": "audio",
         "metadata": "",
         "name": "assets/hurt.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
         "userAdded": true
       },
       {
@@ -337,6 +341,8 @@
         "kind": "audio",
         "metadata": "",
         "name": "assets/debug.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
         "userAdded": true
       },
       {
@@ -344,6 +350,8 @@
         "kind": "audio",
         "metadata": "",
         "name": "assets/maintheme.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
         "userAdded": true
       },
       {
@@ -363,6 +371,1095 @@
         "name": "EnemyBullet-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "background.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "background.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "explosion.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "explosion.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Explosion-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosion-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Explosion-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosion-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Explosion-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosion-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Explosion-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosion-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Explosion-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosion-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Explosion-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosion-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Explosion-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosion-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/clear.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/clear.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-45.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-44.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-43.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-42.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-41.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-40.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-39.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-38.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-37.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-36.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-35.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-34.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-33.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-32.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-31.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-30.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-29.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-28.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-27.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-26.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-25.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-24.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-23.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-21.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-20.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CLEAR/frame-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/CLEAR/frame-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-6-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-7-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-8-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-9-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-9-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-10-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-10-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-11-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-11-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-12-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-12-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-13-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-13-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-14-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-14-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-15-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-15-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-21.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-23.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-24.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-25.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-26.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-27.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-28.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-29.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-30.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-31.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-32.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-33.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-34.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-35.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-36.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-37.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-38.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-39.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-40.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-41.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-42.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-43.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-44.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-45.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-46.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/spacepixels-0.2.0/asteroid_grey.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/spacepixels-0.2.0/asteroid_grey.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Heart.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/heal.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/heal.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/spacepixels-0.2.0/pixel_shape3_blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/spacepixels-0.2.0/pixel_shape3_blue.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -372,7 +1469,18 @@
   "variables": [
     {
       "name": "enemy1Cooldown",
+      "type": "string",
       "value": "250"
+    },
+    {
+      "name": "enemy2Cooldown",
+      "type": "string",
+      "value": "60"
+    },
+    {
+      "name": "score",
+      "type": "string",
+      "value": "0"
     }
   ],
   "layouts": [
@@ -397,28 +1505,53 @@
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridR": 158,
+        "gridType": "rectangular",
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.298
+        "zoomFactor": 0.2662000000000006
       },
       "objectsGroups": [],
       "variables": [
         {
           "name": "DebugMode",
+          "type": "string",
           "value": "0"
         },
         {
           "name": "vulnerable",
+          "type": "string",
           "value": "1"
         },
         {
           "name": "spawnEnemy",
+          "type": "string",
           "value": "1"
         },
         {
           "name": "enemyShoot",
+          "type": "string",
           "value": "1"
+        },
+        {
+          "name": "clear",
+          "type": "string",
+          "value": "0"
+        },
+        {
+          "name": "sceneLifeTime",
+          "type": "string",
+          "value": "0"
+        },
+        {
+          "name": "timeSinceLastSpawn",
+          "type": "string",
+          "value": "0"
+        },
+        {
+          "name": "timeSinceLastSpawn2",
+          "type": "string",
+          "value": "0"
         }
       ],
       "instances": [
@@ -466,6 +1599,38 @@
           "x": 970,
           "y": -66,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1116,
+          "layer": "",
+          "locked": true,
+          "name": "Background",
+          "persistentUuid": "86b82791-7eec-4124-ba55-ac50ee2032b2",
+          "width": 1974,
+          "x": -18,
+          "y": -11,
+          "zOrder": -100,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 54,
+          "layer": "",
+          "locked": false,
+          "name": "Score",
+          "persistentUuid": "5f31ffbc-1010-4d1c-8aff-36b5a3275498",
+          "width": 1053,
+          "x": 52,
+          "y": 973,
+          "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -707,11 +1872,13 @@
           "variables": [
             {
               "name": "cooldown",
+              "type": "string",
               "value": "100"
             }
           ],
           "behaviors": [
             {
+              "maxSpeed": 40,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
@@ -721,7 +1888,6 @@
               "cellHeight": 20,
               "cellWidth": 20,
               "extraBorder": 0,
-              "maxSpeed": 50,
               "rotateObject": false
             }
           ],
@@ -756,6 +1922,1199 @@
               ]
             }
           ]
+        },
+        {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Background",
+          "rightMargin": 0,
+          "tags": "",
+          "texture": "background.jpg",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "Explosion",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Explosion",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explosion-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explosion-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explosion-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explosion-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explosion-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explosion-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explosion-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Clear",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-30.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-31.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-32.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-33.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-34.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-35.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-36.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-37.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-38.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-39.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-40.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-41.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-42.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-43.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-44.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/CLEAR/frame-45.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Asteroid",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "extraBorder": 10,
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside"
+            },
+            {
+              "name": "LinearMovement",
+              "type": "LinearMovement::LinearMovement",
+              "SpeedX": 0,
+              "SpeedY": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/spacepixels-0.2.0/asteroid_grey.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 80
+                          },
+                          {
+                            "x": 9,
+                            "y": 80
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewHeart",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "extraBorder": 100,
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside"
+            },
+            {
+              "name": "LinearMovement",
+              "type": "LinearMovement::LinearMovement",
+              "SpeedX": 250,
+              "SpeedY": 0
+            },
+            {
+              "name": "SineMovement",
+              "type": "SineMovement::SineMovement",
+              "SineSpeed": 60,
+              "AmplitudeX": 0,
+              "AmplitudeY": 150,
+              "InitialX": 0,
+              "InitialY": 0,
+              "SineProgress": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Heart.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enemy2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "cooldown",
+              "type": "string",
+              "value": "60"
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "maxSpeed": 80,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "pixel_shape3_blue",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/spacepixels-0.2.0/pixel_shape3_blue.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Score",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Score",
+          "font": "",
+          "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -1206,6 +3565,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Explosion",
+                "Player.PointX(\"\")-32",
+                "Player.PointY(\"\")-32",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -1265,6 +3638,20 @@
                 "Player",
                 "Health",
                 "Variable(vulnerable)",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Explosion",
+                "Player.PointX(\"\")-32",
+                "Player.PointY(\"\")-32",
                 ""
               ],
               "subInstructions": []
@@ -1368,19 +3755,6 @@
                     "yes"
                   ],
                   "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "Bullet",
-                    "bulletLifespan",
-                    ">",
-                    "20"
-                  ],
-                  "subInstructions": []
                 }
               ]
             }
@@ -1419,6 +3793,222 @@
               "parameters": [
                 "Enemy",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Explosion",
+                "Enemy.PointX(\"\")-32",
+                "Enemy.PointY(\"\")-32",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "+",
+                "100"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Bullet",
+                    "Enemy2",
+                    "",
+                    "",
+                    "yes"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets/hurt.wav",
+                "",
+                "10",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Bullet",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Enemy2",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Explosion",
+                "Enemy.PointX(\"\")-32",
+                "Enemy.PointY(\"\")-32",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "+",
+                "200"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Bullet",
+                    "Asteroid",
+                    "",
+                    "",
+                    "yes"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets/hurt.wav",
+                "",
+                "10",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Bullet",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Asteroid",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Explosion",
+                "Asteroid.PointX(\"\")",
+                "Asteroid.PointY(\"\")",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "+",
+                "50"
               ],
               "subInstructions": []
             }
@@ -1997,6 +4587,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Explosion",
+                "Player.PointX(\"\")-32",
+                "Player.PointY(\"\")-32",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -2005,10 +4609,388 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::JsCode",
-          "inlineCode": "// SPAWN\nif(runtimeScene.getVariables().get(\"spawnEnemy\").getAsNumber() !== 1){\n    return\n}\n\nconst spawnChance = 0.0085\n\nconst random = Math.random()\n\nif(random < spawnChance){\n    const newEnemy = runtimeScene.createObject(\"Enemy\")\n    newEnemy.setX(Math.random() * 1920)\n    newEnemy.setWidth(84)\n    newEnemy.setHeight(117)\n}",
+          "inlineCode": "// SPAWN\nif(runtimeScene.getVariables().get(\"spawnEnemy\").getAsNumber() !== 1){\n    return\n}\n\nconst timeSinceLastSpawn = runtimeScene.getVariables().get(\"timeSinceLastSpawn\");\nconst spawnChance = 0.0065 + (runtimeScene.getVariables().get(\"sceneLifeTime\").getAsNumber()/10000000)\n\nconst random = Math.random()\n\nfunction getRandomInt(min, max) {\n    min = Math.ceil(min);\n    max = Math.floor(max);\n    return Math.floor(Math.random() * (max - min + 1)) + min;\n}\n\nif(random < spawnChance || timeSinceLastSpawn > 4*60){\n    const newObj = runtimeScene.createObject(\"Enemy\")\n    newObj.setWidth(84)\n    newObj.setHeight(117)\n\n    const quadran = getRandomInt(1, 4)\n    if(quadran ===1){\n        newObj.setPosition(0, Math.random() * 1080);\n    }else if(quadran ===2){\n        newObj.setPosition(Math.random() * 1920, 0);\n    }else if(quadran ===3){\n        newObj.setPosition(1920, Math.random() * 1080);\n    }else{\n        newObj.setPosition(Math.random() * 1920, 1080);\n    }\n\n    timeSinceLastSpawn.setNumber(0);\n\n}",
           "parameterObjects": "",
           "useStrict": true,
           "eventsSheetExpanded": false
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Enemy2",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Enemy2",
+                "cooldown",
+                "<",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "enemyShoot",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets/test2.wav",
+                "",
+                "10",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Enemy2",
+                "cooldown",
+                "=",
+                "GlobalVariable(enemy2Cooldown)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "EnemyBullet",
+                    "Enemy2.PointX(\"\")",
+                    "Enemy2.PointY(\"\")",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AddForceVersPos"
+                  },
+                  "parameters": [
+                    "EnemyBullet",
+                    "Player.PointX(\"\")",
+                    "Player.PointY(\"\")",
+                    "80",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "RotateTowardPosition"
+                  },
+                  "parameters": [
+                    "EnemyBullet",
+                    "Player.PointX(\"\")",
+                    "Player.PointY(\"\")",
+                    "0",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Enemy2",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Enemy2",
+                "cooldown",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Enemy2",
+                "Pathfinding",
+                "",
+                "Player.PointX(\"\")",
+                "Player.PointY(\"\")"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "RotateTowardPosition"
+              },
+              "parameters": [
+                "Enemy2",
+                "Player.PointX(\"\")",
+                "Player.PointY(\"\")",
+                "0",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Enemy2",
+                "Player",
+                "",
+                "",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets/hurt.wav",
+                "",
+                "10",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "Variable(vulnerable)",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Enemy2",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Explosion",
+                "Player.PointX(\"\")-32",
+                "Player.PointY(\"\")-32",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "// SPAWN\nif(runtimeScene.getVariables().get(\"spawnEnemy\").getAsNumber() !== 1){\n    return\n}\n\nconst timeSinceLastSpawn = runtimeScene.getVariables().get(\"timeSinceLastSpawn2\");\nconst spawnChance = 0.004 + (runtimeScene.getVariables().get(\"sceneLifeTime\").getAsNumber()/10000000)\n\nconst random = Math.random()\n\nfunction getRandomInt(min, max) {\n    min = Math.ceil(min);\n    max = Math.floor(max);\n    return Math.floor(Math.random() * (max - min + 1)) + min;\n}\n\nif(random < spawnChance || timeSinceLastSpawn > 4*60){\n    const newObj = runtimeScene.createObject(\"Enemy2\")\n    newObj.setWidth(84)\n    newObj.setHeight(117)\n\n    const quadran = getRandomInt(1, 4)\n    if(quadran ===1){\n        newObj.setPosition(0, Math.random() * 1080);\n    }else if(quadran ===2){\n        newObj.setPosition(Math.random() * 1920, 0);\n    }else if(quadran ===3){\n        newObj.setPosition(1920, Math.random() * 1080);\n    }else{\n        newObj.setPosition(Math.random() * 1920, 1080);\n    }\n\n    timeSinceLastSpawn.setNumber(0);\n\n}",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": true
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Asteroid",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "// SPAWN\nconst spawnChance = 0.0095\n\nconst random = Math.random()\n\nfunction getRandomInt(min, max) {\n    min = Math.ceil(min);\n    max = Math.floor(max);\n    return Math.floor(Math.random() * (max - min + 1)) + min;\n}\n\nif(random < spawnChance){\n    const newObj = runtimeScene.createObject(\"Asteroid\")\n\n    let originX, originY;\n    let destinationX, destinationY;\n\n    const quadran = getRandomInt(1, 4)\n    if(quadran ===1){\n        originX = 0\n        originY = Math.random() * 1080\n    }else if(quadran ===2){\n        originX = Math.random() * 1920\n        originY = 0\n    }else if(quadran ===3){\n        originX = 1920\n        originY = Math.random() * 1080\n    }else{\n        originX = Math.random() * 1920\n        originY = 1080\n    }\n\n    const quadran2 = getRandomInt(1, 4)\n    if(quadran2 ===1){\n        destinationX = 0\n        destinationY = Math.random() * 1080\n    }else if(quadran2 ===2){\n        destinationX = Math.random() * 1920\n        destinationY = 0\n    }else if(quadran2 ===3){\n        destinationX = 1920\n        destinationY = Math.random() * 1080\n    }else{\n        destinationX = Math.random() * 1920\n        destinationY = 1080\n    }\n    \n    newObj.setPosition(originX, originY);\n    newObj.addForceTowardPosition(destinationX, destinationY, 60, 1)\n}",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Asteroid",
+                "Player",
+                "",
+                "",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets/hurt.wav",
+                "",
+                "10",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "Variable(vulnerable)",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Asteroid",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Explosion",
+                "Player.PointX(\"\")-32",
+                "Player.PointY(\"\")-32",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         },
         {
           "colorB": 228,
@@ -2554,6 +5536,77 @@
           "eventsSheetExpanded": false
         },
         {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "NewHeart",
+                "Player",
+                "",
+                "",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::Heal"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "1",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets/heal.wav",
+                "",
+                "10",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "NewHeart",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "\nconst spawnChance = 0.0015 + (runtimeScene.getVariables().get(\"sceneLifeTime\").getAsNumber()/10000000)\n\nconst random = Math.random()\n\nif(random < spawnChance){\n    const newObj = runtimeScene.createObject(\"NewHeart\")\n    newObj.setPosition(0, Math.random() * 1080);\n}",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": true
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -2596,6 +5649,318 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationEnded"
+              },
+              "parameters": [
+                "Explosion"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Explosion",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "Explosion",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "\nconst allEnemy = runtimeScene.getObjects(\"Enemy\")\nconst allEnemy2 = runtimeScene.getObjects(\"Enemy2\")\n\nif(allEnemy.length === 0 && allEnemy2.length === 0){\n    const clear = runtimeScene.getVariables().get(\"clear\");\n    clear.setNumber(1)\n}else{\n    const clear = runtimeScene.getVariables().get(\"clear\");\n    clear.setNumber(0)\n}",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "clear",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "assets/clear.mp3",
+                "",
+                "15",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Clear",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Clear",
+                "728",
+                "394",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeHeight"
+              },
+              "parameters": [
+                "Clear",
+                "=",
+                "261"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeWidth"
+              },
+              "parameters": [
+                "Clear",
+                "=",
+                "445"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "+",
+                "1000"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Sprite"
+              },
+              "parameters": [
+                "Clear",
+                ">",
+                "25"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Tween::AddObjectOpacityTween"
+              },
+              "parameters": [
+                "Clear",
+                "Tween",
+                "\"10\"",
+                "0",
+                "\"linear\"",
+                "800",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "sceneLifeTime",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "timeSinceLastSpawn",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Score",
+                "=",
+                "GlobalVariableString(score)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Egal"
+              },
+              "parameters": [
+                "mod(Variable(sceneLifeTime), 60)",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "+",
+                "5"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -2635,6 +6000,10 @@
           "type": "Health::Health"
         },
         {
+          "name": "LinearMovement",
+          "type": "LinearMovement::LinearMovement"
+        },
+        {
           "name": "Pathfinding",
           "type": "PathfindingBehavior::PathfindingBehavior"
         },
@@ -2643,12 +6012,20 @@
           "type": "NewExtension::RotateToCursor"
         },
         {
+          "name": "SineMovement",
+          "type": "SineMovement::SineMovement"
+        },
+        {
           "name": "StayOnScreen",
           "type": "StayOnScreen::StayOnScreen"
         },
         {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -2673,6 +6050,7 @@
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridR": 158,
+        "gridType": "rectangular",
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
@@ -3149,10 +6527,11 @@
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridR": 158,
+        "gridType": "rectangular",
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.304
+        "zoomFactor": 0.2828
       },
       "objectsGroups": [],
       "variables": [],
@@ -3233,6 +6612,22 @@
           "x": 579,
           "y": 173,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 136,
+          "layer": "",
+          "locked": false,
+          "name": "Score",
+          "persistentUuid": "6f49b8d6-20df-4597-a052-c22afd746a8b",
+          "width": 405,
+          "x": 603,
+          "y": 463,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3373,6 +6768,23 @@
             "g": 255,
             "r": 255
           }
+        },
+        {
+          "name": "Score",
+          "tags": "",
+          "type": "BBText::BBText",
+          "variables": [],
+          "behaviors": [],
+          "content": {
+            "text": "[align=center]Score[/align]",
+            "opacity": 255,
+            "fontSize": 100,
+            "visible": true,
+            "color": "#ffffff",
+            "fontFamily": "Arial",
+            "align": "center",
+            "wordWrap": false
+          }
         }
       ],
       "events": [
@@ -3467,6 +6879,39 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BBText::SetBBText"
+              },
+              "parameters": [
+                "Score",
+                "=",
+                "\"Score: \" + GlobalVariableString(score)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreX"
+              },
+              "parameters": [
+                "Score",
+                "=",
+                "SceneWindowWidth()/2-(Score.Width()/2)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -3500,6 +6945,707 @@
   "eventsFunctionsExtensions": [
     {
       "author": "@4ian",
+      "description": "Move the object linearly, according to the speed configured on X and Y axis. Useful for simple enemies, bullets or objects following a straight line on the screen.",
+      "extensionNamespace": "",
+      "fullName": "Linear Movement",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXJheS1zdGFydC1hcnJvdyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMywxMkwxOSwxNlYxM0g2LjgzQzYuNDIsMTQuMTcgNS4zMSwxNSA0LDE1QTMsMyAwIDAsMSAxLDEyQTMsMyAwIDAsMSA0LDlDNS4zMSw5IDYuNDIsOS44MyA2LjgzLDExSDE5VjhMMjMsMTJaIiAvPjwvc3ZnPg==",
+      "name": "LinearMovement",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/ray-start-arrow.svg",
+      "shortDescription": "Move the object linearly, according to the speed configured on X and Y axis. Useful for simple enemies, bullets or objects following a straight line on the screen.",
+      "version": "0.0.1",
+      "tags": [
+        "line",
+        "movement",
+        "linear"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Move the object linearly, according to the speed configured on X and Y axis. Useful for simple enemies, bullets or objects following a straight line on the screen.",
+          "fullName": "Linear movement",
+          "name": "LinearMovement",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "description": "",
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "private": false,
+              "sentence": "",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Object.Behavior::PropertySpeedX()",
+                        "Object.Behavior::PropertySpeedY()",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "LinearMovement::LinearMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Speed on X axis",
+              "description": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "SpeedX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Speed on Y axis",
+              "description": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "SpeedY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "author": "@4ian",
+      "description": "Allow an object to move smoothly on the X and/or Y axis following a sine wave, or an ellipsis.",
+      "extensionNamespace": "",
+      "fullName": "Sine (or ellipsis) Movement",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXNpbmUtd2F2ZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xNi41LDIxQzEzLjUsMjEgMTIuMzEsMTYuNzYgMTEuMDUsMTIuMjhDMTAuMTQsOS4wNCA5LDUgNy41LDVDNC4xMSw1IDQsMTEuOTMgNCwxMkgyQzIsMTEuNjMgMi4wNiwzIDcuNSwzQzEwLjUsMyAxMS43MSw3LjI1IDEyLjk3LDExLjc0QzEzLjgzLDE0LjggMTUsMTkgMTYuNSwxOUMxOS45NCwxOSAyMC4wMywxMi4wNyAyMC4wMywxMkgyMi4wM0MyMi4wMywxMi4zNyAyMS45NywyMSAxNi41LDIxWiIgLz48L3N2Zz4=",
+      "name": "SineMovement",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/sine-wave.svg",
+      "shortDescription": "Allow an object to move smoothly on the X and/or Y axis following a sine wave, or an ellipsis.",
+      "version": "0.0.3",
+      "tags": [
+        "sine",
+        "ellipsis",
+        "movement"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Allow an object to move smoothly on the X and/or Y axis following a sine wave.",
+          "fullName": "Sine Movement",
+          "name": "SineMovement",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "description": "",
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "private": false,
+              "sentence": "",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::PropertyInitialX"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::PropertyInitialY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::SetPropertyInitialX"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Object.X()"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::SetPropertyInitialY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Object.Y()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::PropertyAmplitudeX"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "!=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "MettreX"
+                      },
+                      "parameters": [
+                        "Object",
+                        "=",
+                        "Object.Behavior::PropertyInitialX() + cos(ToRad(Object.Behavior::PropertySineProgress())) * Object.Behavior::PropertyAmplitudeX()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::PropertyAmplitudeY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "!=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "MettreY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "=",
+                        "Object.Behavior::PropertyInitialY() + sin(ToRad(Object.Behavior::PropertySineProgress())) * Object.Behavior::PropertyAmplitudeY()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::SetPropertySineProgress"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "+",
+                        "Object.Behavior::PropertySineSpeed() * TimeDelta()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SineMovement::SineMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set amplitude Y",
+              "fullName": "Set amplitude Y",
+              "functionType": "Action",
+              "name": "SetAmplitudeY",
+              "private": false,
+              "sentence": "Set amplitude Y of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::SetPropertyAmplitudeY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"Value\")"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SineMovement::SineMovement",
+                  "type": "behavior"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Value",
+                  "longDescription": "",
+                  "name": "Value",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set initial Y",
+              "fullName": "Set initial Y",
+              "functionType": "Action",
+              "name": "SetInitialY",
+              "private": false,
+              "sentence": "Set initial Y of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::SetPropertyInitialY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"Value\")"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SineMovement::SineMovement",
+                  "type": "behavior"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Value",
+                  "longDescription": "",
+                  "name": "Value",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set initial X",
+              "fullName": "Set initial X",
+              "functionType": "Action",
+              "name": "SetInitialX",
+              "private": false,
+              "sentence": "Set initial X of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::SetPropertyInitialX"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"Value\")"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SineMovement::SineMovement",
+                  "type": "behavior"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Value",
+                  "longDescription": "",
+                  "name": "Value",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set amplitude X",
+              "fullName": "Set amplitude X",
+              "functionType": "Action",
+              "name": "SetAmplitudeX",
+              "private": false,
+              "sentence": "Set amplitude X of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::SetPropertyAmplitudeX"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"Value\")"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SineMovement::SineMovement",
+                  "type": "behavior"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Value",
+                  "longDescription": "",
+                  "name": "Value",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set sine speed",
+              "fullName": "Set sine speed",
+              "functionType": "Action",
+              "name": "SetSineSpeed",
+              "private": false,
+              "sentence": "Set sine speed of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SineMovement::SineMovement::SetPropertySineSpeed"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"Value\")"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SineMovement::SineMovement",
+                  "type": "behavior"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Value",
+                  "longDescription": "",
+                  "name": "Value",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "60",
+              "type": "Number",
+              "label": "Speed, in degrees per second",
+              "description": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "SineSpeed"
+            },
+            {
+              "value": "100",
+              "type": "Number",
+              "label": "Amplitude of the movement on X axis (0 to deactivate)",
+              "description": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "AmplitudeX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Amplitude of the movement on Y axis (0 to deactivate)",
+              "description": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "AmplitudeY"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "InitialX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "InitialY"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "SineProgress"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "author": "@4ian",
       "description": "Add actions and conditions to manage the life of the object. Object can get damages, lose some health and you can check with a condition if it's dead.",
       "extensionNamespace": "",
       "fullName": "Health (life points and damages for objects)",
@@ -3516,6 +7662,7 @@
         "hit",
         "heal"
       ],
+      "dependencies": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -3529,6 +7676,7 @@
               "fullName": "Damage the object",
               "functionType": "Action",
               "name": "Hit",
+              "private": false,
               "sentence": "Damage _PARAM0_, removing _PARAM2_ from its health",
               "events": [
                 {
@@ -3661,6 +7809,7 @@
               "fullName": "Is dead",
               "functionType": "Condition",
               "name": "IsDead",
+              "private": false,
               "sentence": "_PARAM0_ is dead",
               "events": [
                 {
@@ -3745,6 +7894,7 @@
               "fullName": "",
               "functionType": "Action",
               "name": "doStepPreEvents",
+              "private": false,
               "sentence": "",
               "events": [
                 {
@@ -3798,6 +7948,7 @@
               "fullName": "Is just damaged",
               "functionType": "Condition",
               "name": "IsJustDamaged",
+              "private": false,
               "sentence": "_PARAM0_ has just been damaged",
               "events": [
                 {
@@ -3880,6 +8031,7 @@
               "fullName": "Heal the object",
               "functionType": "Action",
               "name": "Heal",
+              "private": false,
               "sentence": "Heal _PARAM0_, adding _PARAM2_ to its health",
               "events": [
                 {
@@ -3980,6 +8132,7 @@
               "fullName": "Change object health",
               "functionType": "Action",
               "name": "SetHealth",
+              "private": false,
               "sentence": "Set health of _PARAM0_ to _PARAM2_",
               "events": [
                 {
@@ -4080,6 +8233,7 @@
               "fullName": "Health",
               "functionType": "Expression",
               "name": "Health",
+              "private": false,
               "sentence": "",
               "events": [
                 {
@@ -4194,6 +8348,7 @@
         "spawn",
         "firerate"
       ],
+      "dependencies": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -4207,6 +8362,7 @@
               "fullName": "Fire a bullet toward a position",
               "functionType": "Action",
               "name": "FireTowardPosition",
+              "private": false,
               "sentence": "Fire _PARAM4_ from _PARAM0_, at position _PARAM2_;_PARAM3_, toward position _PARAM5_;_PARAM6_ with speed _PARAM7_ px/s",
               "events": [
                 {
@@ -4375,6 +8531,7 @@
               "fullName": "Fire a bullet",
               "functionType": "Action",
               "name": "Fire",
+              "private": false,
               "sentence": "Fire _PARAM4_ from _PARAM0_, at position _PARAM2_;_PARAM3_, with angle _PARAM5_ and speed _PARAM6_ px/s",
               "events": [
                 {
@@ -4530,6 +8687,7 @@
               "fullName": "Has just fired",
               "functionType": "Condition",
               "name": "HasJustFired",
+              "private": false,
               "sentence": "_PARAM0_ has just fired",
               "events": [
                 {
@@ -4612,6 +8770,7 @@
               "fullName": "",
               "functionType": "Action",
               "name": "doStepPreEvents",
+              "private": false,
               "sentence": "",
               "events": [
                 {
@@ -4665,6 +8824,7 @@
               "fullName": "",
               "functionType": "Action",
               "name": "onCreated",
+              "private": false,
               "sentence": "",
               "events": [
                 {
@@ -4717,6 +8877,7 @@
               "fullName": "",
               "functionType": "Action",
               "name": "doStepPostEvents",
+              "private": false,
               "sentence": "",
               "events": [
                 {
@@ -4816,6 +8977,7 @@
         "camera",
         "screen"
       ],
+      "dependencies": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -4829,6 +8991,7 @@
               "fullName": "",
               "functionType": "Action",
               "name": "doStepPostEvents",
+              "private": false,
               "sentence": "",
               "events": [
                 {
@@ -4943,6 +9106,7 @@
       "shortDescription": "",
       "version": "",
       "tags": [],
+      "dependencies": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -4956,6 +9120,7 @@
               "fullName": "Rotate Object to Follow Cursor",
               "functionType": "Expression",
               "name": "Function",
+              "private": false,
               "sentence": "Rotate _PARAM0_ to Follow Cursor ",
               "events": [
                 {
@@ -5010,6 +9175,44 @@
           "propertyDescriptors": []
         }
       ]
+    },
+    {
+      "author": "",
+      "description": "",
+      "extensionNamespace": "",
+      "fullName": "",
+      "helpPath": "",
+      "iconUrl": "",
+      "name": "SpawnEnemy",
+      "previewIconUrl": "",
+      "shortDescription": "",
+      "version": "",
+      "tags": [],
+      "dependencies": [],
+      "eventsFunctions": [
+        {
+          "description": "",
+          "fullName": "Spawn Enemy",
+          "functionType": "Action",
+          "name": "SpawnEnemy",
+          "private": false,
+          "sentence": "Spawn Enemy",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "function getRandomInt(min, max) {\n    min = Math.ceil(min);\n    max = Math.floor(max);\n    return Math.floor(Math.random() * (max - min + 1)) + min;\n}\n\nconst newObj = runtimeScene.createObject(\"Enemy\")\nnewObj.setWidth(84)\nnewObj.setHeight(117)\n\nconst quadran = getRandomInt(1, 4)\nif(quadran ===1){\n    newObj.setPosition(0, Math.random() * 1920);\n}else if(quadran ===2){\n    newObj.setPosition(Math.random() * 1920, 0);\n}else if(quadran ===3){\n    newObj.setPosition(1920, Math.random() * 1920);\n}else{\n    newObj.setPosition(Math.random() * 1920, 1920);\n}\n\n    \nconst timeSinceLastSpawn = runtimeScene.getVariables().get(\"timeSinceLastSpawn\");\ntimeSinceLastSpawn.setNumber(0);",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": []
     }
   ],
   "externalLayouts": [],
