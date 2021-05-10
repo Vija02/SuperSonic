@@ -1,3 +1,3 @@
-Game Link: https://vija02.github.io/SuperSonicPrototype/
-Repo Link: https://github.com/Vija02/SuperSonicPrototype
+Game Link: https://vija02.github.io/SuperSonic
+Repo Link: https://github.com/Vija02/SuperSonic
 Build Folder: ./build/
