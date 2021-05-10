@@ -32,7 +32,7 @@ gdjs.MenuCode.condition1IsTrue_1 = {val:false};
 gdjs.MenuCode.condition2IsTrue_1 = {val:false};
 
 
-gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDStartButtonObjects1Objects = Hashtable.newFrom({"StartButton": gdjs.MenuCode.GDStartButtonObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDHowToPlayButtonObjects1Objects = Hashtable.newFrom({"HowToPlayButton": gdjs.MenuCode.GDHowToPlayButtonObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDSpeakerObjects1Objects = Hashtable.newFrom({"Speaker": gdjs.MenuCode.GDSpeakerObjects1});gdjs.MenuCode.userFunc0x6d5db0 = function(runtimeScene) {
+gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDStartButtonObjects1Objects = Hashtable.newFrom({"StartButton": gdjs.MenuCode.GDStartButtonObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDHowToPlayButtonObjects1Objects = Hashtable.newFrom({"HowToPlayButton": gdjs.MenuCode.GDHowToPlayButtonObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDSpeakerObjects1Objects = Hashtable.newFrom({"Speaker": gdjs.MenuCode.GDSpeakerObjects1});gdjs.MenuCode.userFunc0x711dd0 = function(runtimeScene) {
 "use strict";
 // Just toggle
 var debugMode = runtimeScene.getGame().getVariables().get("sound");
@@ -48,7 +48,7 @@ gdjs.MenuCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.MenuCode.userFunc0x6d5db0(runtimeScene);
+gdjs.MenuCode.userFunc0x711dd0(runtimeScene);
 
 }
 
