@@ -1509,7 +1509,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.2662000000000006
+        "zoomFactor": 0.4146000000000006
       },
       "objectsGroups": [],
       "variables": [
@@ -1550,6 +1550,21 @@
         },
         {
           "name": "timeSinceLastSpawn2",
+          "type": "string",
+          "value": "0"
+        },
+        {
+          "name": "ShowStatistic",
+          "type": "string",
+          "value": "0"
+        },
+        {
+          "name": "sceneLifeTimeReal",
+          "type": "string",
+          "value": "0"
+        },
+        {
+          "name": "statTotalBulletShot",
           "type": "string",
           "value": "0"
         }
@@ -1631,6 +1646,22 @@
           "x": 52,
           "y": 973,
           "zOrder": 103,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 333,
+          "layer": "",
+          "locked": false,
+          "name": "StatisticPanel",
+          "persistentUuid": "ae0bed5c-a214-42d3-a20d-aa245f9c3978",
+          "width": 643,
+          "x": 97,
+          "y": 101,
+          "zOrder": 105,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1878,9 +1909,9 @@
           ],
           "behaviors": [
             {
-              "maxSpeed": 40,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "maxSpeed": 40,
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -2896,9 +2927,9 @@
           "variables": [],
           "behaviors": [
             {
-              "extraBorder": 10,
               "name": "DestroyOutside",
-              "type": "DestroyOutsideBehavior::DestroyOutside"
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 10
             },
             {
               "name": "LinearMovement",
@@ -2966,9 +2997,9 @@
           "variables": [],
           "behaviors": [
             {
-              "extraBorder": 100,
               "name": "DestroyOutside",
-              "type": "DestroyOutsideBehavior::DestroyOutside"
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 100
             },
             {
               "name": "LinearMovement",
@@ -3033,6 +3064,8 @@
           ],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -3041,9 +3074,7 @@
               "cellWidth": 20,
               "extraBorder": 0,
               "maxSpeed": 80,
-              "name": "Pathfinding",
-              "rotateObject": false,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "rotateObject": false
             }
           ],
           "animations": [
@@ -3110,6 +3141,25 @@
           "string": "Score",
           "font": "",
           "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "StatisticPanel",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Stats",
+          "font": "",
+          "characterSize": 35,
           "color": {
             "b": 255,
             "g": 255,
@@ -3442,6 +3492,18 @@
                 "assets/test2.wav",
                 "",
                 "5",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "statTotalBulletShot",
+                "+",
                 "1"
               ],
               "subInstructions": []
@@ -5478,6 +5540,196 @@
             }
           ],
           "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Statistics",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "k"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets/debug.wav",
+                "",
+                "10",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "// Just toggle\nvar debugMode = runtimeScene.getVariables().get(\"ShowStatistic\");\n\nif(!!debugMode.getAsNumber()){\n    debugMode.setNumber(0);\n}else{\n    debugMode.setNumber(1);\n}",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "sceneLifeTimeReal",
+                "+",
+                "1000*TimeDelta()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "ShowStatistic",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "StatisticPanel"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "ShowStatistic",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "StatisticPanel",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": true,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BBText::SetBBText"
+              },
+              "parameters": [
+                "StatisticPanel",
+                "=",
+                "\"Time Elapsed: \" + ToString(floor(Variable(sceneLifeTimeReal))) + \" ms\" + NewLine() +\"Enemies Alive: \""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "const panel = runtimeScene.getObjects(\"StatisticPanel\")[0]\nconst allEnemy = runtimeScene.getObjects(\"Enemy\")\nconst allEnemy2 = runtimeScene.getObjects(\"Enemy2\")\nconst bullet = runtimeScene.getObjects(\"Bullet\")\nconst enemyBullet = runtimeScene.getObjects(\"EnemyBullet\")\n\nconst asd = [\n    \"Time Elapsed: \" + Math.floor(runtimeScene.getVariables().get(\"sceneLifeTimeReal\").getAsNumber()).toString() + \" ms\",\n    \"Enemies Alive: \" + (allEnemy.length + allEnemy2.length).toString(),\n    \"FPS: \" + Math.round(1000/runtimeScene.getTimeManager().getElapsedTime()).toString(),\n    \"Enemy bullets on Screen: \" + (enemyBullet.length),\n    \"Friendly bullets on Screen: \" + (enemyBullet.length),\n    \"Total bullets on Screen: \" + (bullet.length + enemyBullet.length),\n    \"Total bullets shot: \" + (runtimeScene.getVariables().get(\"statTotalBulletShot\").getAsNumber()),\n].join(\"\\n\")\n\nif(!runtimeScene.getProfiler()){\n    const prof =new gdjs.Profiler()\n    console.log(\"Begin\")\n    // prof.\n}\npanel.setString(asd)\n\n",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
         },
         {
           "colorB": 228,
