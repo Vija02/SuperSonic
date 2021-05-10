@@ -1,7 +1,8 @@
 # SuperSonic
 
-Prototype game.  
+Full game.  
 Press **F8** for debug mode.  
-https://vija02.github.io/SuperSonicPrototype/
+Press **K** to show statistics.   
+https://vija02.github.io/SuperSonic/
 
 Made with GDevelop.
