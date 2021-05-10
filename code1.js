@@ -239,7 +239,7 @@ gdjs.PlayAreaCode.GDEnemyBulletObjects1.length = 0;
 }
 
 
-};gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.PlayAreaCode.GDEnemyObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.PlayAreaCode.GDPlayerObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.PlayAreaCode.GDExplosionObjects1});gdjs.PlayAreaCode.userFunc0x7112b8 = function(runtimeScene) {
+};gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.PlayAreaCode.GDEnemyObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.PlayAreaCode.GDPlayerObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.PlayAreaCode.GDExplosionObjects1});gdjs.PlayAreaCode.userFunc0x6df4a0 = function(runtimeScene) {
 "use strict";
 // SPAWN
 if(runtimeScene.getVariables().get("spawnEnemy").getAsNumber() !== 1){
@@ -303,7 +303,7 @@ gdjs.PlayAreaCode.GDEnemyBulletObjects1.length = 0;
 
 };gdjs.PlayAreaCode.eventsList9 = function(runtimeScene) {
 
-};gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDEnemy2Objects1Objects = Hashtable.newFrom({"Enemy2": gdjs.PlayAreaCode.GDEnemy2Objects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.PlayAreaCode.GDPlayerObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.PlayAreaCode.GDExplosionObjects1});gdjs.PlayAreaCode.userFunc0x75a1a0 = function(runtimeScene) {
+};gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDEnemy2Objects1Objects = Hashtable.newFrom({"Enemy2": gdjs.PlayAreaCode.GDEnemy2Objects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.PlayAreaCode.GDPlayerObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.PlayAreaCode.GDExplosionObjects1});gdjs.PlayAreaCode.userFunc0x6e0b58 = function(runtimeScene) {
 "use strict";
 // SPAWN
 if(runtimeScene.getVariables().get("spawnEnemy").getAsNumber() !== 1){
@@ -343,7 +343,7 @@ if(random < spawnChance || timeSinceLastSpawn > 4*60){
 };
 gdjs.PlayAreaCode.eventsList10 = function(runtimeScene) {
 
-};gdjs.PlayAreaCode.userFunc0x75a718 = function(runtimeScene) {
+};gdjs.PlayAreaCode.userFunc0x710ae0 = function(runtimeScene) {
 "use strict";
 // SPAWN
 const spawnChance = 0.0095
@@ -398,7 +398,7 @@ if(random < spawnChance){
 };
 gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDAsteroidObjects1Objects = Hashtable.newFrom({"Asteroid": gdjs.PlayAreaCode.GDAsteroidObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.PlayAreaCode.GDPlayerObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.PlayAreaCode.GDExplosionObjects1});gdjs.PlayAreaCode.eventsList11 = function(runtimeScene) {
 
-};gdjs.PlayAreaCode.userFunc0x8aafe8 = function(runtimeScene) {
+};gdjs.PlayAreaCode.userFunc0x711df0 = function(runtimeScene) {
 "use strict";
 // Just toggle
 var debugMode = runtimeScene.getVariables().get("DebugMode");
@@ -414,12 +414,12 @@ gdjs.PlayAreaCode.eventsList12 = function(runtimeScene) {
 {
 
 
-gdjs.PlayAreaCode.userFunc0x8aafe8(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x711df0(runtimeScene);
 
 }
 
 
-};gdjs.PlayAreaCode.userFunc0x8ab488 = function(runtimeScene) {
+};gdjs.PlayAreaCode.userFunc0x703b90 = function(runtimeScene) {
 "use strict";
 const toToggle = runtimeScene.getVariables().get("vulnerable");
 !!toToggle.getAsNumber() ? toToggle.setNumber(0) : toToggle.setNumber(1);
@@ -429,12 +429,12 @@ gdjs.PlayAreaCode.eventsList13 = function(runtimeScene) {
 {
 
 
-gdjs.PlayAreaCode.userFunc0x8ab488(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x703b90(runtimeScene);
 
 }
 
 
-};gdjs.PlayAreaCode.userFunc0x8ab8f0 = function(runtimeScene) {
+};gdjs.PlayAreaCode.userFunc0x759ec0 = function(runtimeScene) {
 "use strict";
 const toToggle = runtimeScene.getVariables().get("enemyShoot");
 !!toToggle.getAsNumber() ? toToggle.setNumber(0) : toToggle.setNumber(1);
@@ -444,12 +444,12 @@ gdjs.PlayAreaCode.eventsList14 = function(runtimeScene) {
 {
 
 
-gdjs.PlayAreaCode.userFunc0x8ab8f0(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x759ec0(runtimeScene);
 
 }
 
 
-};gdjs.PlayAreaCode.userFunc0x8abd58 = function(runtimeScene) {
+};gdjs.PlayAreaCode.userFunc0x75a328 = function(runtimeScene) {
 "use strict";
 const toToggle = runtimeScene.getVariables().get("spawnEnemy");
 !!toToggle.getAsNumber() ? toToggle.setNumber(0) : toToggle.setNumber(1);
@@ -459,14 +459,14 @@ gdjs.PlayAreaCode.eventsList15 = function(runtimeScene) {
 {
 
 
-gdjs.PlayAreaCode.userFunc0x8abd58(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x75a328(runtimeScene);
 
 }
 
 
 };gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.PlayAreaCode.GDEnemyObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDEnemy2Objects1Objects = Hashtable.newFrom({"Enemy2": gdjs.PlayAreaCode.GDEnemy2Objects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.PlayAreaCode.GDEnemyObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.PlayAreaCode.GDBulletObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDEnemyBulletObjects1Objects = Hashtable.newFrom({"EnemyBullet": gdjs.PlayAreaCode.GDEnemyBulletObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDAsteroidObjects1Objects = Hashtable.newFrom({"Asteroid": gdjs.PlayAreaCode.GDAsteroidObjects1});gdjs.PlayAreaCode.eventsList16 = function(runtimeScene) {
 
-};gdjs.PlayAreaCode.userFunc0x84c150 = function(runtimeScene) {
+};gdjs.PlayAreaCode.userFunc0x8ab5b0 = function(runtimeScene) {
 "use strict";
 // Just toggle
 var debugMode = runtimeScene.getVariables().get("ShowStatistic");
@@ -482,12 +482,12 @@ gdjs.PlayAreaCode.eventsList17 = function(runtimeScene) {
 {
 
 
-gdjs.PlayAreaCode.userFunc0x84c150(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x8ab5b0(runtimeScene);
 
 }
 
 
-};gdjs.PlayAreaCode.userFunc0x84cb30 = function(runtimeScene) {
+};gdjs.PlayAreaCode.userFunc0x8abf90 = function(runtimeScene) {
 "use strict";
 const panel = runtimeScene.getObjects("StatisticPanel")[0]
 const allEnemy = runtimeScene.getObjects("Enemy")
@@ -511,7 +511,7 @@ panel.setString(asd)
 };
 gdjs.PlayAreaCode.eventsList18 = function(runtimeScene) {
 
-};gdjs.PlayAreaCode.userFunc0x703010 = function(runtimeScene) {
+};gdjs.PlayAreaCode.userFunc0x84ae40 = function(runtimeScene) {
 "use strict";
 // Generate hearts UI
 const health = runtimeScene.getObjects("Player")[0].getBehavior("Health").Health()
@@ -530,7 +530,7 @@ if(allHearts.length !== health){
     }
 }
 };
-gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDNewHeartObjects1Objects = Hashtable.newFrom({"NewHeart": gdjs.PlayAreaCode.GDNewHeartObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.PlayAreaCode.GDPlayerObjects1});gdjs.PlayAreaCode.userFunc0x703680 = function(runtimeScene) {
+gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDNewHeartObjects1Objects = Hashtable.newFrom({"NewHeart": gdjs.PlayAreaCode.GDNewHeartObjects1});gdjs.PlayAreaCode.mapOfGDgdjs_46PlayAreaCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.PlayAreaCode.GDPlayerObjects1});gdjs.PlayAreaCode.userFunc0x84b4d8 = function(runtimeScene) {
 "use strict";
 
 const spawnChance = 0.0015 + (runtimeScene.getVariables().get("sceneLifeTime").getAsNumber()/10000000)
@@ -544,7 +544,7 @@ if(random < spawnChance){
 };
 gdjs.PlayAreaCode.eventsList19 = function(runtimeScene) {
 
-};gdjs.PlayAreaCode.userFunc0x703ed0 = function(runtimeScene) {
+};gdjs.PlayAreaCode.userFunc0x84bd28 = function(runtimeScene) {
 "use strict";
 
 const allEnemy = runtimeScene.getObjects("Enemy")
@@ -1058,7 +1058,7 @@ gdjs.PlayAreaCode.GDExplosionObjects1.length = 0;
 {
 
 
-gdjs.PlayAreaCode.userFunc0x7112b8(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x6df4a0(runtimeScene);
 
 }
 
@@ -1168,7 +1168,7 @@ gdjs.PlayAreaCode.GDExplosionObjects1.length = 0;
 {
 
 
-gdjs.PlayAreaCode.userFunc0x75a1a0(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x6e0b58(runtimeScene);
 
 }
 
@@ -1183,7 +1183,7 @@ gdjs.PlayAreaCode.eventsList10(runtimeScene);
 {
 
 
-gdjs.PlayAreaCode.userFunc0x75a718(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x710ae0(runtimeScene);
 
 }
 
@@ -1639,7 +1639,7 @@ gdjs.copyArray(runtimeScene.getObjects("StatisticPanel"), gdjs.PlayAreaCode.GDSt
 {
 
 
-gdjs.PlayAreaCode.userFunc0x84cb30(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x8abf90(runtimeScene);
 
 }
 
@@ -1674,7 +1674,7 @@ gdjs.PlayAreaCode.GDPlayerObjects1.length = k;}if (gdjs.PlayAreaCode.condition0I
 {
 
 
-gdjs.PlayAreaCode.userFunc0x703010(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x84ae40(runtimeScene);
 
 }
 
@@ -1705,7 +1705,7 @@ gdjs.PlayAreaCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisio
 {
 
 
-gdjs.PlayAreaCode.userFunc0x703680(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x84b4d8(runtimeScene);
 
 }
 
@@ -1770,7 +1770,7 @@ gdjs.copyArray(runtimeScene.getObjects("Explosion"), gdjs.PlayAreaCode.GDExplosi
 {
 
 
-gdjs.PlayAreaCode.userFunc0x703ed0(runtimeScene);
+gdjs.PlayAreaCode.userFunc0x84bd28(runtimeScene);
 
 }
 
